@@ -13,3 +13,9 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+sync :  git pull
+        git add .
+        git commit -m "second commit"
+        git push -u origin master
+        
+        
