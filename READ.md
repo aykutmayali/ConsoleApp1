@@ -1,5 +1,8 @@
 # ConsoleApp1
-# <h2>Creating a repo from existing project file</h2>
+<h1>
+  <b>  Creating a repo from existing project file </b>
+</h1>
+# Creating a repo from existing project file
 
 # …or create a new repository on the command line
 - <b>create a file for readme</b>: echo "# ConsoleApp1" >> README.md
